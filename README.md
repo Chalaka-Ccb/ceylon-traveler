@@ -10,7 +10,6 @@ Here's a visual journey through the key interfaces of Ceylon Traveler:
 
 ---
 
-**Watch a Demo:** [Link to Video Demo Here]([<PASTE_YOUTUBE/VIMEO_LINK_HERE>](https://drive.google.com/file/d/1DwUg6IqhQZ-mjxQIRbZoa9CmM9emSuqt/view?usp=drivesdk))
 ** backend repository**:-https://github.com/Chalaka-Ccb/Ceylone-travel
 ---
 
@@ -60,14 +59,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/ceylon-traveler.git](https://github.com/your-username/ceylon-traveler.git) 
+    git clone https://github.com/your-username/ceylon-traveler.git 
     cd ceylon-traveler
     ```
 2.  **Install dependencies:**
     ```bash
     npm install
-    # or
-    # yarn install
+    
     ```
 
 ### Configuration
@@ -103,19 +101,3 @@ Follow these instructions to get a copy of the project up and running on your lo
 2.  **Open the app:** Scan the QR code with Expo Go or use an emulator/simulator.
 
 ---
-
-## 📂 Project Structure
-
-For a detailed explanation of the project's folder structure, please see [STRUCTURE.md](STRUCTURE.md).
-
----
-
-## 🤝 Contributing (Optional)
-
-Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
-
----
-
-## 📜 License (Optional)
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
